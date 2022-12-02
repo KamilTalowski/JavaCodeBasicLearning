@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GUIdragAndDrop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GUIdragAndDrop_jar</output-path>
+    <root id="archive" name="GUIdragAndDrop.jar">
+      <element id="module-output" name="GUIdragAndDrop" />
+    </root>
+  </artifact>
+</component>

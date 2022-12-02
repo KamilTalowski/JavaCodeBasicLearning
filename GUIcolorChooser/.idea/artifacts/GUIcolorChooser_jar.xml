@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GUIcolorChooser:jar">
+    <output-path>$PROJECT_DIR$/../..</output-path>
+    <root id="archive" name="GUIcolorChooser.jar">
+      <element id="module-output" name="GUIcolorChooser" />
+    </root>
+  </artifact>
+</component>
